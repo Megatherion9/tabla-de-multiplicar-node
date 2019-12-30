@@ -6,7 +6,6 @@ Esta es una aplicacion para generar tablas de multiplicar en consola y archivos 
 
 Desarrollada en node.js
 
-------------------
+```
 Ejecutar el comando npm install
-
-------------------
+```

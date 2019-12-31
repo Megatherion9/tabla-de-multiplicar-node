@@ -1,4 +1,4 @@
-//Codigo para definir los parametros de los comandos que se iran creando en la app 
+//Parametros de los comandos que se iran creando en la app 
 
 const opciones = {
     base: {
